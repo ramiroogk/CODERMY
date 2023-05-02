@@ -1,0 +1,29 @@
+/*CSS
+selector{
+    propiedad: valor;
+}
+*/
+
+header{
+    background-color: tomato;
+    width: 100%;
+    height: 120px;
+}
+header div span{
+    font-size: 30px;
+}
+header nav ul li{
+    background-color: rgb(1, 39, 255);
+}
+/*ID*/
+#noticia{
+    background-color: blueviolet;
+
+}
+.producto .productoTitulo{
+    color: chocolate;
+    font-size: 30px;
+    background-color: rgb(245, 84, 151);
+    text-decoration: underline;
+
+}
